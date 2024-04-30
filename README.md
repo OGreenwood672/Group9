@@ -41,6 +41,11 @@
       <td>2</td>
       <td></td>
     </tr>
+    <tr>
+      <td>20/4/24</td>
+      <td>2</td>
+      <td></td>
+    </tr>
     <!-- Add more rows as needed -->
   </tbody>
 </table>
@@ -60,6 +65,11 @@
       <td>2</td>
       <td></td>
     </tr>
+    <tr>
+      <td>20/4/24</td>
+      <td>2</td>
+      <td></td>
+    </tr>
     <!-- Add more rows as needed -->
   </tbody>
 </table>
@@ -76,6 +86,11 @@
   <tbody>
     <tr>
       <td>25/4/24</td>
+      <td>2</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>20/4/24</td>
       <td>2</td>
       <td></td>
     </tr>
