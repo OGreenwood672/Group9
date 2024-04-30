@@ -16,6 +16,11 @@
       <td>2</td>
       <td>Decided which users to create an app for. Created a google form questionaire for potential users to fill out</td>
     </tr>
+    <tr>
+      <td>20/4/24</td>
+      <td>2</td>
+      <td>Created a poster of a typical user, and wrote about our general personas. Also created this work log</td>
+    </tr>
     <!-- Add more rows as needed -->
   </tbody>
 </table>
