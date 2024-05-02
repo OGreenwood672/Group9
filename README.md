@@ -76,7 +76,7 @@
       <td>Continued formatting entire document to LaTeX and did analysis for the questionaire</td>
     </tr>
     <tr>
-      <td1/5/24</td>
+      <td>1/5/24</td>
       <td>2</td>
       <td>Finalised the LaTeX for the User Requirements Task</td>
     </tr>
