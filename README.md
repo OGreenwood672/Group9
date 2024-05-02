@@ -21,6 +21,11 @@
       <td>2</td>
       <td>Created a poster of a typical user, and wrote about our general personas. Also created this work log</td>
     </tr>
+    <tr>
+      <td>1/5/24</td>
+      <td>0.5</td>
+      <td>Rewrote some paragraphs to make more sense</td>
+    </tr>
     <!-- Add more rows as needed -->
   </tbody>
 </table>
@@ -69,6 +74,11 @@
       <td>30/4/24</td>
       <td>2</td>
       <td>Continued formatting entire document to LaTeX and did analysis for the questionaire</td>
+    </tr>
+    <tr>
+      <td1/5/24</td>
+      <td>2</td>
+      <td>Finalised the LaTeX for the User Requirements Task</td>
     </tr>
     <!-- Add more rows as needed -->
   </tbody>
