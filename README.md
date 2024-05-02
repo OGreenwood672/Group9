@@ -26,6 +26,11 @@
       <td>0.5</td>
       <td>Rewrote some paragraphs to make more sense</td>
     </tr>
+    <tr>
+      <td>2/5/24</td>
+      <td>2</td>
+      <td>Help make some corrections to our user requirements document and made a basic design out of shapes in figma of our app</td>
+    </tr>
     <!-- Add more rows as needed -->
   </tbody>
 </table>
@@ -50,6 +55,11 @@
       <td>30/4/24</td>
       <td>2</td>
       <td>Wrote about the criteria and the research results</td>
+    </tr>
+    <tr>
+      <td>2/5/24</td>
+      <td>2</td>
+      <td>Made a table linking evidence to user requirements, and improved some graphs for our task 1 document</td>
     </tr>
     <!-- Add more rows as needed -->
   </tbody>
@@ -80,6 +90,11 @@
       <td>0.5</td>
       <td>Finalised the LaTeX for the User Requirements Task</td>
     </tr>
+    <tr>
+      <td>2/5/24</td>
+      <td>2</td>
+      <td>Corrected formatting in task 1 document, helped design the UI, worked on pixel art for final hi-fi prototype</td>
+    </tr>
     <!-- Add more rows as needed -->
   </tbody>
 </table>
@@ -109,6 +124,11 @@
       <td>2</td>
       <td>Compiled interview results, helped write the user requirements</td>
     </tr>
+    <tr>
+      <td>2/5/24</td>
+      <td>2</td>
+      <td>Helped design UI, grammar checked task 1 document, added a functional vs non-functional table</td>
+    </tr>
     <!-- Add more rows as needed -->
   </tbody>
 </table>
@@ -132,6 +152,11 @@
       <td>30/4/24</td>
       <td>2</td>
       <td>Wrote about stakeholders and user requirements</td>
+    </tr>
+    <tr>
+      <td>2/5/24</td>
+      <td>2</td>
+      <td>Redid the weather app graph, helped design inital UI mockup</td>
     </tr>
     <!-- Add more rows as needed -->
   </tbody>
