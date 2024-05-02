@@ -77,7 +77,7 @@
     </tr>
     <tr>
       <td>1/5/24</td>
-      <td>2</td>
+      <td>0.5</td>
       <td>Finalised the LaTeX for the User Requirements Task</td>
     </tr>
     <!-- Add more rows as needed -->
