@@ -134,6 +134,11 @@
       <td>2</td>
       <td>Helped design UI, grammar checked task 1 document, added a functional vs non-functional table</td>
     </tr>
+    <tr>
+      <td>4/5/24</td>
+      <td>0.5</td>
+      <td>Drew lo-fi prototypes for the background weather</td>
+    </tr>
     <!-- Add more rows as needed -->
   </tbody>
 </table>
