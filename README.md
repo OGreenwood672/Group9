@@ -31,6 +31,11 @@
       <td>2</td>
       <td>Help make some corrections to our user requirements document and made a basic design out of shapes in figma of our app</td>
     </tr>
+    <tr>
+      <td>7/5/24</td>
+      <td>2</td>
+      <td>Wrote about our how we were going to implement our mobile app and researched into backend hosting for our app (settling on flask + postgresSQL + vercel)</td>
+    </tr>
     <!-- Add more rows as needed -->
   </tbody>
 </table>
@@ -60,6 +65,11 @@
       <td>2/5/24</td>
       <td>2</td>
       <td>Made a table linking evidence to user requirements, and improved some graphs for our task 1 document</td>
+    </tr>
+    <tr>
+      <td>7/5/24</td>
+      <td>2</td>
+      <td>Wrote about initial feature concepts and added detail to mobile vs tablet, reformatted "Interacting with the user" and started writing storyboard scenario.</td>
     </tr>
     <!-- Add more rows as needed -->
   </tbody>
@@ -100,6 +110,11 @@
       <td>0.5</td>
       <td>Drew some more pixel art for the design</td>
     </tr>
+    <tr>
+      <td>7/5/24</td>
+      <td>2</td>
+      <td>Developed background for app, and formatting designs in document</td>
+    </tr>
     <!-- Add more rows as needed -->
   </tbody>
 </table>
@@ -139,6 +154,11 @@
       <td>0.5</td>
       <td>Drew lo-fi prototypes for the background weather</td>
     </tr>
+    <tr>
+      <td>7/5/24</td>
+      <td>2</td>
+      <td>Created storyboards and worked on lo-fi interactions and helped write the mobile vs tablet paragraph</td>
+    </tr>
     <!-- Add more rows as needed -->
   </tbody>
 </table>
@@ -167,6 +187,11 @@
       <td>2/5/24</td>
       <td>2</td>
       <td>Redid the weather app graph, helped design inital UI mockup</td>
+    </tr>
+    <tr>
+      <td>7/5/24</td>
+      <td>2</td>
+      <td>Wrote up the design and user interactions and helped write the mobile vs tablet paragraph</td>
     </tr>
     <!-- Add more rows as needed -->
   </tbody>
