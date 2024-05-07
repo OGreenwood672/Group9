@@ -95,6 +95,11 @@
       <td>2</td>
       <td>Corrected formatting in task 1 document, helped design the UI, worked on pixel art for final hi-fi prototype</td>
     </tr>
+    <tr>
+      <td>4/5/24</td>
+      <td>0.5</td>
+      <td>Drew some more pixel art for the design</td>
+    </tr>
     <!-- Add more rows as needed -->
   </tbody>
 </table>
