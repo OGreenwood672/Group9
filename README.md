@@ -36,6 +36,11 @@
       <td>2</td>
       <td>Wrote about our how we were going to implement our mobile app and researched into backend hosting for our app (settling on flask + postgresSQL + vercel)</td>
     </tr>
+    <tr>
+      <td>9/5/24</td>
+      <td>2.5</td>
+      <td>Setup Flutter on laptop, and made function to fetch forecast</td>
+    </tr>
     <!-- Add more rows as needed -->
   </tbody>
 </table>
@@ -70,6 +75,11 @@
       <td>7/5/24</td>
       <td>2</td>
       <td>Wrote about initial feature concepts and added detail to mobile vs tablet, reformatted "Interacting with the user" and started writing storyboard scenario.</td>
+    </tr>
+    <tr>
+      <td>9/5/24</td>
+      <td>2</td>
+      <td>Setup Flutter on laptop</td>
     </tr>
     <!-- Add more rows as needed -->
   </tbody>
@@ -115,6 +125,11 @@
       <td>2</td>
       <td>Developed background for app, and formatting designs in document</td>
     </tr>
+    <tr>
+      <td>9/5/24</td>
+      <td>2</td>
+      <td>Setup Flutter on laptop</td>
+    </tr>
     <!-- Add more rows as needed -->
   </tbody>
 </table>
@@ -159,6 +174,11 @@
       <td>2</td>
       <td>Created storyboards and worked on lo-fi interactions and helped write the mobile vs tablet paragraph</td>
     </tr>
+    <tr>
+      <td>9/5/24</td>
+      <td>2</td>
+      <td>Setup Flutter on laptop</td>
+    </tr>
     <!-- Add more rows as needed -->
   </tbody>
 </table>
@@ -192,6 +212,11 @@
       <td>7/5/24</td>
       <td>2</td>
       <td>Wrote up the design and user interactions and helped write the mobile vs tablet paragraph</td>
+    </tr>
+    <tr>
+      <td>9/5/24</td>
+      <td>2</td>
+      <td>Setup Flutter on laptop</td>
     </tr>
     <!-- Add more rows as needed -->
   </tbody>
