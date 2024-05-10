@@ -38,8 +38,18 @@
     </tr>
     <tr>
       <td>9/5/24</td>
-      <td>2.5</td>
-      <td>Setup Flutter on laptop, and made function to fetch forecast</td>
+      <td>2</td>
+      <td>Setup Flutter on laptop</td>
+    </tr>
+    <tr>
+      <td>9/5/24</td>
+      <td>6</td>
+      <td>Created a REST API with a postgreSQL DB to store forecast, all of which is hosted on Vercel and can be accessed whenever. The DB is updated every 30 mins with Cron Jobs.</td>
+    </tr>
+    <tr>
+      <td>10/5/24</td>
+      <td>0.5</td>
+      <td>Made function to fetch forecast</td>
     </tr>
     <!-- Add more rows as needed -->
   </tbody>
