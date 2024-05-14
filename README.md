@@ -51,6 +51,11 @@
       <td>0.5</td>
       <td>Made function to fetch forecast</td>
     </tr>
+    <tr>
+      <td>14/5/24</td>
+      <td>2</td>
+      <td>Made navigation and helped buidl the layout of the app</td>
+    </tr>
     <!-- Add more rows as needed -->
   </tbody>
 </table>
@@ -90,6 +95,11 @@
       <td>9/5/24</td>
       <td>2</td>
       <td>Setup Flutter on laptop</td>
+    </tr>
+    <tr>
+      <td>14/5/24</td>
+      <td>2</td>
+      <td>Made app scrollable</td>
     </tr>
     <!-- Add more rows as needed -->
   </tbody>
@@ -140,6 +150,11 @@
       <td>2</td>
       <td>Setup Flutter on laptop</td>
     </tr>
+    <tr>
+      <td>14/5/24</td>
+      <td>2</td>
+      <td>Reformatted background images and added them into app.</td>
+    </tr>
     <!-- Add more rows as needed -->
   </tbody>
 </table>
@@ -189,6 +204,11 @@
       <td>2</td>
       <td>Setup Flutter on laptop</td>
     </tr>
+    <tr>
+      <td>14/5/24</td>
+      <td>2</td>
+      <td>Analysed and fetched data for weather</td>
+    </tr>
     <!-- Add more rows as needed -->
   </tbody>
 </table>
@@ -227,6 +247,11 @@
       <td>9/5/24</td>
       <td>2</td>
       <td>Setup Flutter on laptop</td>
+    </tr>
+    <tr>
+      <td>14/5/24</td>
+      <td>2</td>
+      <td>Improved hourly forecast and extra details</td>
     </tr>
     <!-- Add more rows as needed -->
   </tbody>
